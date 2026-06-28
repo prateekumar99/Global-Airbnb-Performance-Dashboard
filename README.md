@@ -1,2 +1,11 @@
-# PowerBI-Customer-Support-Dashboard
-Power BI dashboard analyzing customer support performance, ticket resolution trends, operational KPIs, and process improvement opportunities.
+# Dashboard Screenshots
+
+This folder contains screenshots of each dashboard page.
+
+## Pages
+
+- Overview
+- Ratings
+- Reviews
+
+These images provide a quick preview of the Power BI dashboard without requiring Power BI Desktop.
